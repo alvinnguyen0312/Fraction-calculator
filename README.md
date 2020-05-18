@@ -1,4 +1,4 @@
-# project-2
+# Fraction Calculator
 
 This is a GUI applicaton that simulates a Fraction calculator. 
 This app will ask the user to enter integer values for a numerator and denominator of a fraction. 
